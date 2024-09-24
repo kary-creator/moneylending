@@ -1,0 +1,14 @@
+[{"name":"Tick Loans",
+"maximumBudget":5000,
+"MinimumBudget":3000,
+"preferences":"School Loan",
+"loanPaymentPeriod/Months":3
+},
+
+{"name":"Tick Loans",
+"maximumBudget":5000,
+"MinimumBudget":3000,
+"preferences":"Business Loan",
+"loanPaymentPeriod/Months":3
+}
+]
